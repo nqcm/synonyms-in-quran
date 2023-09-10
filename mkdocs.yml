@@ -1,0 +1,7 @@
+site_name: My Docs
+
+theme:
+  name: material
+    palette:
+      primary: deep purple
+      accent: purple

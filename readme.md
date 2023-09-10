@@ -1,0 +1,1 @@
+# Synonyms in Quran
