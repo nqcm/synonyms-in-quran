@@ -3,20 +3,11 @@ hide:
   - footer
 ---
 
-# Welcome to MkDocs
+# synonyms in Quran
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This website is an attempt to help people with limited knowledge of Arabic to appreciate the beauty of Quranic language.
 
-## Commands
+The goal is to collect different sysnonyms of the same words used in Quran, and discuss the subtle differences in their meaning, which are usually lost in translation.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This is an ongoing work and an undertaking which I don't feel equal to. But I am starting this massive project with the name of Allah and putting my trust in Allah's help.
+ 
