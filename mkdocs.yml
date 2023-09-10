@@ -1,7 +1,53 @@
-site_name: My Docs
+site_name: Synonyms in Quran
+site_description: "A website to help you learn about the subtelities of Arabic language through comparision of synonyms in Quran."
+site_url: "https://nqcm.github.io/synonyms-in-quran/"
+site_author: "Naveera Ashraf"
+
+copyright: "© All rights reserved - naveeraashraf.com"
+
+repo_name: "nqcm/synonyms-in-quran/"
+repo_url: "https://github.com/nqcm/synonyms-in-quran/"
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nqcm
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/niqabicodermum
+    - icon: fontawesome/brands/linkedin
+      link: https://za.linkedin.com/in/naveera-ashraf
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/niqabi.coder.mum/
+
 
 theme:
   name: material
-    palette:
-      primary: deep purple
-      accent: purple
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+      primary: light green
+      accent: green
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+      primary: light green
+      accent: green
+
+  logo: img/logo.svg
+  favicon: img/logo.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - search.share
+
+  plugins:
+    - social
+    - search:
+      lang:
+        - eng
+        - ar
+        
