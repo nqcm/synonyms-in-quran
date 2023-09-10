@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# synonyms in Quran
+# Synonyms in Quran
 
 This website is an attempt to help people with limited knowledge of Arabic to appreciate the beauty of Quranic language.
 

@@ -27,21 +27,20 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: light green
-      accent: green
+      primary: teal
+      accent: cyan
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      primary: light green
-      accent: green
+      primary: teal
+      accent: cyan
 
   logo: material/library
   favicon: img/logo.png
   features:
     - navigation.indexes
     - navigation.instant
-    - navigation.tabs
     - navigation.tracking
     - search.share
 
