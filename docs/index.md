@@ -19,9 +19,9 @@ For example, to find the different words used in Quran for "ship" go to the lett
 
 ## Find a word by alphabet
 
-[A](/A)
+[A](/synonyms-in-quran/A)
 <br>
-[B](/B)
+[B](/synonyms-in-quran/B)
 <br>
-[C](/C)
+[C](/synonyms-in-quran/C)
 <br>
