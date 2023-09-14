@@ -4,7 +4,7 @@ hide:
   - path
   - toc
 
-title: Words starting with letter "B"
+title: Words starting with letter "H"
 ---
 
 |  | Words in Arabic |

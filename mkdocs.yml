@@ -8,6 +8,17 @@ copyright: "© All rights reserved - naveeraashraf.com"
 repo_name: "nqcm/synonyms-in-quran"
 repo_url: "https://github.com/nqcm/synonyms-in-quran"
 
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences
+  
+
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -19,24 +30,21 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/niqabi.coder.mum/
 
+nav:
+  - Home: index.md
+  - Alphabetical Index: index/index.md
+  - Sources: index/sources.md
+  - Synonymy in Arabic language: index/synonymy.md
 
 theme:
   name: material
+  annotation: material/arrow-right-circle
   palette:
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-      primary: teal
-      accent: cyan
     - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
       primary: teal
-      accent: cyan
+      accent: teal
 
-  logo: material/library
+  logo: img/logo.png
   favicon: img/logo.png
   features:
     - navigation.indexes
@@ -50,4 +58,3 @@ theme:
       lang:
         - eng
         - ar
-        
