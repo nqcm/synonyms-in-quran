@@ -9,14 +9,20 @@ repo_name: "nqcm/synonyms-in-quran"
 repo_url: "https://github.com/nqcm/synonyms-in-quran"
 
 markdown_extensions:
-  - footnotes
+  - abbr
+  - admonition
   - attr_list
+  - footnotes
   - md_in_html
-  - tables
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.superfences
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - tables
   
 
 extra:
@@ -33,12 +39,14 @@ extra:
 nav:
   - Home: index.md
   - Alphabetical Index: index/index.md
-  - Sources: index/sources.md
-  - Synonymy in Arabic language: index/synonymy.md
+  - Sources: sources.md
+  - Synonymy in Arabic language: synonymy.md
 
 theme:
   name: material
-  annotation: material/arrow-right-circle
+  annotation: material/plus-circle
+  font:
+    text: Noto Naskh Arabic
   palette:
     - scheme: slate
       primary: teal

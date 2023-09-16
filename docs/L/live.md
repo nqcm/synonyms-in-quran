@@ -2,48 +2,63 @@
 hide:
   - footer
   - path
+  - toc
+
+title: To live
 ---
 
-# To Live
+!!! abstract "Arabic words used in Quran"
+     سكن - تبوأ (ب-و-ء) - ثوى - بدا - حضر - خلد - عاشر - غني 
 
-*Synonyms in English*
+!!! info "Synonyms in English"
+    To populate,To Settle in a place
 
-To populate,To Settle
 
-*Synonyms in Arabic*
+# سكن
 
- سكن - تبوأ (ب-و-ء) - ثوى - بدا - حضر - خلد - عاشر - غني 
+Sakana(سَكَنَ):sakoon is the anotnym of unrest and motion. Thus when sakana is used in the context of ‘to settle in a land’ then it means 'to arrive from some other place to settle' (:material-book: Maqaees)
 
-## سكن
+## Examples from Quran
 
-Sakana(سَكَنَ):sakoon is the anotnym of unrest and motion[^1].Thus when sakana is used in the context of ‘to settle in a land’ then it means “to arrive from some other place to settle” 
+| Surah | Ayaah | |
+| ---- | ---- | ----|
+| Al-Baqarah | 35 | وَقُلْنَا يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers."|
 
-### Examples from Quran
+!!! quote "Surah al-Baqarah - 35"
 
-Surah Al-Baqarah (The Cow) - سورة البقرة
-2:35
+    <div class="result" markdown>
 
-وَقُلْنَا يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ
+    وَقُلْنَا يَا آدَمُ اسْكُنْ أَنتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ  (1)
+    { .annotate }
 
-And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers."
+    1.  And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers."
+
+    </div>
+
 
 
 That means that their birth was at some other place other than ALJANNAH(الجَنَّة)
 When Prophet Abrahim(PBUH) settled Hagar and Ishmael then he said
-________________
 
 
-Surat 'Ibrāhīm (Abrahim) - سورة ابراهيم
-14:37
+Surat Ibrāhīm (Abrahim) - سورة ابراهيم 14:37
+
 رَّبَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ عِندَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلَاةَ فَاجْعَلْ أَفْئِدَةً مِّنَ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُم مِّنَ الثَّمَرَاتِ لَعَلَّهُمْ يَشْكُرُونَ
+
 Our Lord, I have settled some of my descendants in an uncultivated valley near Your sacred House, our Lord, that they may establish prayer. So make hearts among the people incline toward them and provide for them from the fruits that they might be grateful.
-________________
 
 
 
+# تَبَوَّا 
 
-1.2 TABAWWA(تَبَوَّا): root is (ب وَ أَ) .there are two connotations in its meaning a) refer to the thing b) being appropriate. and this word is used when the climate and surrounding of a residential place is suitable and favourable as per the nature of the resident.or some other person who chooses any residential place and it’s suitable and favourable for him. for e.g.
-________________
+The root of this word is (ب وَ أَ) 
+
+There are two connotations in its meaning:
+
+1. refer to the thing 
+2. being appropriate 
+
+This word is used when the climate and surrounding of a residential place is suitable and favourable as per the nature of the resident. Or some other person who chooses any residential place and it’s suitable and favourable for him. for e.g.
 
 
 Surat Yūsuf (Joseph) - سورة يوسف

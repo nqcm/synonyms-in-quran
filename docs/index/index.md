@@ -13,6 +13,16 @@ For example, to find the different words used in Quran for "ship" go to the lett
 
 You can also use the search bar at the top to search for an English or Arabic word.
 
+## Signs and symbols
+
+Throughout the site you will find the following symbols to denote additional information.
+
+| Symbol | Meaning | 
+| ---- | ---- | 
+| :material-book: | Next to this sign you will find the abbreviation of the book from where the information is taken. Hover over the abbreviation to see the full name of the book. | 
+| :material-plus-circle: | click on this icon to read the translations of ayaat. |
+
+
 [A](../A/index.md){ .md-button .md-button--primary }
 &emsp; &emsp; 
 [B](../B/index.md){ .md-button .md-button--primary }

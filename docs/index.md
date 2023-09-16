@@ -21,7 +21,7 @@ In the muqaddamah (foreword) of his famous work Imam Raghib says:
 
 >What is the subtle beauty buried in these words? Similarly, لأولي الأبصار vs. لذي حجر vs. لأولي النهى etc. that have been used across the Quran and many have interpreted them to mean essentially the same thing. A lack of this attention to detail justifies the interpretation of الحمد لله as الشكر لله and of لا ريب as لا شك to be adequate an tafsir that has done justice to these Qur’anic expressions.
 
-_Unfortunately, either Imam Raghib never got a chance to write this book or it is lost in the years that separate us from his time._
+_Unfortunately, either Imam Raghib never got a chance to write this book or it has been lost during the years that separate us from his time._
 
 ## Why this website?
 
@@ -29,7 +29,7 @@ There are many books in Arabic dealing with the subject of synonyms and near syn
 
 Many may argue that without understanding Arabic language there is little point in discussing sciences such as synonymy. My experience as a student of Quran and Arabic language, however, tells me that having access to resources that make these sciences approachable to students of the language can result in strengthening our connection to Quran and increasing our understanding of the language itself. 
 
-With this idea in mind, my goal is to collect information on different sysnonyms and/or near synonyms used in Quran, and discuss the subtle differences in their meaning, which are usually lost in translation. However, I am merely a connoisseur of knowledge and everything on this website will be taken from [authentic books](./index/sources.md) on this topic.
+With this idea in mind, my goal is to collect information on different sysnonyms and/or near synonyms used in Quran, and discuss the subtle differences in their meaning, which are usually lost in translation. However, I am merely a connoisseur of knowledge and everything on this website will be taken from [authentic books](./sources.md) on this topic.
 
 This is an ongoing work and an undertaking which I don't feel equal to. But I am starting this massive project with the name of Allah and putting my trust in His help. And with many encouragements from my dear daughter [Aaisha Muhammad](https://aaishamuhammad.co.za) who has not only encouraged me to start this mammoth task but also enthusiastically agreed to help me.
 
