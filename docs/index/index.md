@@ -6,7 +6,7 @@ hide:
 
 title: Alphabetical Index
 ---
-AAisha
+AAisha aaisha
 On this page you will find links to pages for each alphabet. Each link takes you to an index of English words starting with that letter that have been used in Quran. Each English word contains all the Arabic words that have been used to convey the meaning of that particular word, their root letters, their meanings from various dictionaries and (optionally) a summary to show the subtle differences between these words and its usage.
 
 For example, to find the different words used in Quran for "ship" go to the letter "S" link from the section below. Then click on the link for word "Ship".
