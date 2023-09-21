@@ -1,7 +1,7 @@
 
 This repository holds the source code of the website [https://qcm.github.io/synonyms-in-quran/](qcm.github.io/synonyms-in-quran/) and MD files.
 
-# synonyms in Quran
+# Synonyms in Quran
 
 This website is an attempt to help people with limited knowledge of Arabic to appreciate the beauty of Quranic language.
 
