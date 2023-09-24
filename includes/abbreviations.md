@@ -1,4 +1,5 @@
-*[MTFQ]: Mutaraadifaat-al-Quran by Abdur Rahman Kilani
-*[Maqaees]: Maqaees-al-Lughah
-*[FL]: Fiqhul Lughah
-*[Furooq]: الفروق اللغوية
+*[MTFQ]: مترادفات القرآن - عبدالرحمن كيلاني
+*[Maqaees]: مقائيس اللغة
+*[FL]: فقه اللغة - ثعالبي
+*[Furooq]: الفروق اللغوية - عسكري
+*[MR]: مفردات إمام راغب

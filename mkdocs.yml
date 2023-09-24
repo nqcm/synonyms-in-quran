@@ -23,6 +23,9 @@ markdown_extensions:
       auto_append:
         - includes/abbreviations.md
   - tables
+  - toc:
+      title: Words on this page
+      toc_depth: 2
   
 
 extra:
