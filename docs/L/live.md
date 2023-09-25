@@ -212,9 +212,10 @@ In Quran we find refernce to the derived word بدو in Surah Yusuf.
 
 ### Meaning
 
-The root word has two basic meanings
-1. count of ten
-2. associate with one another, to live together. 
+The root word has two basic meanings:
+
+1. Count of ten
+2. Associate with one another, to live together. 
 
 From this we get the derived word عشيرة which means clan, kinsfolk, or tribe.
 
