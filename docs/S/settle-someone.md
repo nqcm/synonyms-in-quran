@@ -19,18 +19,18 @@ We saw words used in Quran with the meaning [to settle](../L/live.md). In this s
 س - ك - ن
 
 ### Meaning
-This word has the meaning of taking someone from one place and setttle them in a different place.  (:material-book: MTFQ)
+This word has the meaning of taking someone from one place and setttle them in a different place. (:material-book: MTFQ)
 
 ### Examples from Quran
 
-!!! quote "Surah Ibrahim - 37"
+!!! quote "Surah Ibraheem - 37"
 
     <div class="annotate" markdown>
     <div dir=rtl>
-    وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ
+    رَّبَّنَا إِنِّي أَسْكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيْرِ ذِي زَرْعٍ عِندَ بَيْتِكَ الْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا الصَّلَاةَ فَاجْعَلْ أَفْئِدَةً مِّنَ النَّاسِ تَهْوِي إِلَيْهِمْ وَارْزُقْهُم مِّنَ الثَّمَرَاتِ لَعَلَّهُمْ يَشْكُرُونَ
     </div> (1) </div>
 
-    1. And We said: "O Adam! Dwell you and your wife in the Paradise and eat both of you freely with pleasure and delight, of things therein as wherever you will, but come not near this tree or you both will be of the Zâlimûn (wrong-doers)."
+    1. O our Lord! I have made some of my offspring to dwell in an uncultivable valley by Your Sacred House (the Ka‘bah at Makkah) in order, O our Lord, that they may perform As-Salât (Iqâmat-as-Salât). So fill some hearts among men with love towards them, and (O Allâh) provide them with fruits so that they may give thanks.
 
 ## بوّأ 
 
@@ -42,14 +42,14 @@ This word has the meaning of taking someone from one place and setttle them in a
 
 This word has the meaning of settling someone in a place which they like and which suits them. (:material-book: MTFQ)
 
-!!! quote "Surah 10 - 63/93"
+!!! quote "Surah Yunus - 93"
 
     <div class="annotate" markdown>
     <div dir=rtl>
-    وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَاءُ ۚ نُصِيبُ بِرَحْمَتِنَا مَنْ نَشَاءُ ۖ وَلَا نُضِيعُ أَجْرَ الْمُحْسِنِينَ  
+    وَلَقَدْ بَوَّأْنَا بَنِي إِسْرَائِيلَ مُبَوَّأَ صِدْقٍ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ فَمَا اخْتَلَفُوا حَتَّىٰ جَاءَهُمُ الْعِلْمُ ۚ إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ 
     </div> (1) </div>
     
-    1. And thus We established Joseph in the land to settle therein wherever he willed. We touch with Our mercy whom We will, and We do not allow to be lost the reward of those who do good.
+    1. And indeed We settled the Children of Israel in an honourable dwelling place (Shâm and Misr), and provided them with good things, and they differed not until the knowledge came to them. Verily, Allâh will judge between them on the Day of Resurrection in that in which they used to differ.
 
 
 ## عمر
@@ -62,7 +62,7 @@ This word has the meaning of settling someone in a place which they like and whi
 
 It means to make something full of life, to make it thrive, to make someone or some place prosperous. (:material-book: MTFQ)
 
-According to ibn Faaris it also has the meaning of preservation, longivity and persistence. (:material-book: Maqaees)
+According to ibn Faaris it also has the meaning of preservation, longevity and persistence. (:material-book: Maqaees)
 
 Sometimes we can capture the meaning of a word better if we look at its opposite. The opposite of عمر (as an intransitive verb) is to destroy, to ruin, to wreck, to vandalize. (:material-book: MTFQ). So عمر means to make something thrive and prosper, and the opposite of it is to destroy something.
 
@@ -74,22 +74,22 @@ The meaning of this hadeeth is that the masjids will be full of people, but they
 
 ### Examples from Quran
  
-!!! quote "Suraa 9 - 18"
+!!! quote "Suraa At-Tawbah - 18"
 
     <div class="annotate" markdown>
     <div dir=rtl>
-    وَلَٰكِنَّا أَنْشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ الْعُمُرُ ۚ وَمَا كُنْتَ ثَاوِيًا فِي أَهْلِ مَدْيَنَ تَتْلُو عَلَيْهِمْ آيَاتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ   
+    إِنَّمَا يَعْمُرُ مَسَاجِدَ اللَّهِ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَلَمْ يَخْشَ إِلَّا اللَّهَ ۖ فَعَسَىٰ أُولَٰئِكَ أَن يَكُونُوا مِنَ الْمُهْتَدِينَ  
     </div> (1) </div>
 
-    1. But We created generations [after generations i.e. after Mûsâ (Moses (PBUH))], and long were the ages that passed over them. And you (O Muhammad (PBUH)) were not a dweller among the people of Madyan (Midian), reciting Our Verses to them. But it is We Who kept sending (Messengers).
+    1. The Mosques of Allâh shall be maintained only by those who believe in Allâh and the Last Day, perform As-Salât (Iqâmat-as-Salât), and give Zakât and fear none but Allâh. It is they who are on true guidance.
 
-!!! quote "Surah 30 - 9"
+!!! quote "Surah Ar-Rum - 9"
     <div class="annotate" markdown>
     <div dir=rtl>
-    وَيَوْمَ الْقِيَامَةِ تَرَى الَّذِينَ كَذَبُوا عَلَى اللَّهِ وُجُوهُهُمْ مُسْوَدَّةٌ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْمُتَكَبِّرِينَ   
+    أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا الْأَرْضَ وَعَمَرُوهَا أَكْثَرَ مِمَّا عَمَرُوهَا وَجَاءَتْهُمْ رُسُلُهُم بِالْبَيِّنَاتِ ۖ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ  
     </div> (1) </div>
 
-    1. And on the Day of Resurrection you will see those who lied against Allâh (i.e. attributed to Him sons, partners) - their faces will be black. Is there not in Hell an abode for the arrogant?
+    1. Do they not travel in the land, and see what was the end of those before them? They were superior to them in strength, and they tilled the earth and populated it in greater numbers than these (pagans) have done: and there came to them their Messengers with clear proofs. Surely, Allâh wronged them not, but they used to wrong themselves.
 
 
 ## آوى 
@@ -102,27 +102,27 @@ The meaning of this hadeeth is that the masjids will be full of people, but they
 
 This word also has the meaning of establishing or settling someone in a place. But it has the added meaning of providing lodgings for someone in your own house, or to receive someone as a guest, or to provide shelter and protection.
 
-!!! quote "Surah 8 - 73"
+!!! quote "Surah Al-Anfal - 74"
     <div class="annotate" markdown>
     <div dir=rtl>
-    وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ كُلَّمَا رُزِقُوا مِنْهَا مِن ثَمَرَةٍ رِّزْقًا ۙ قَالُوا هَٰذَا الَّذِي رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا بِهِ مُتَشَابِهًا ۖ وَلَهُمْ فِيهَا أَزْوَاجٌ مُّطَهَّرَةٌ ۖ وَهُمْ فِيهَا خَالِدُونَ 
+    وَالَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ اللَّهِ وَالَّذِينَ آوَوا وَّنَصَرُوا أُولَٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا ۚ لَّهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
     </div> (1) </div>
 
-    1. And give glad tidings to those who believe and do righteous good deeds, that for them will be Gardens under which rivers flow (Paradise). Every time they will be provided with a fruit therefrom, they will say: "This is what we were provided with before," and they will be given things in resemblance (i.e. in the same form but different in taste) and they shall have therein Azwâjun Mutahharatun (purified mates or wives) and they will abide therein forever.
+    1. And those who believed, and emigrated and strove hard in the Cause of Allâh (Al-Jihâd), as well as those who gave (them) asylum and aid - these are the believers in truth, for them is forgiveness and Rizqun Karîm (a generous provision i.e. Paradise).
 
 In Arabic, root letters play a very important role. Words made from same root letters have related meanings and knowing the meanings of the root letters can enhance our understanding.
 
 The root letters of this word has the meaning of taking refuge, seeking shelter, a place of protection. (:material-book: MR)
 
-The base form (the verb made up of just the root letters) of this word is (أوى) and it is used in Quran for the people of the cave when they took refuge in the cave from the polytheists.
+The base form (the verb made up of just the root letters) of this word is (أوى) and it is used in Quran for the People of the Cave when they took refuge in the cave from the polytheists.
 
-!!! quote "Surah Al-Kahaf - 10"
+!!! quote "Surah Al-Kahf - 10"
     <div class="annotate" markdown>
     <div dir=rtl>
-    وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ كُلَّمَا رُزِقُوا مِنْهَا مِن ثَمَرَةٍ رِّزْقًا ۙ قَالُوا هَٰذَا الَّذِي رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا بِهِ مُتَشَابِهًا ۖ وَلَهُمْ فِيهَا أَزْوَاجٌ مُّطَهَّرَةٌ ۖ وَهُمْ فِيهَا خَالِدُونَ 
+    إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا
     </div> (1) </div>
 
-    1. And give glad tidings to those who believe and do righteous good deeds, that for them will be Gardens under which rivers flow (Paradise). Every time they will be provided with a fruit therefrom, they will say: "This is what we were provided with before," and they will be given things in resemblance (i.e. in the same form but different in taste) and they shall have therein Azwâjun Mutahharatun (purified mates or wives) and they will abide therein forever.
+    1. (Remember) when the young men fled for refuge (from their disbelieving folk) to the Cave. They said: "Our Lord! Bestow on us mercy from Yourself, and facilitate for us our affair in the right way!"
 
 
 ## Summary
