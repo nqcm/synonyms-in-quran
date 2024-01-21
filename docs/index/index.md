@@ -20,7 +20,7 @@ Throughout the site you will find the following symbols to denote additional inf
 | Symbol | Meaning | 
 | ---- | ---- | 
 | :material-book: | Next to this sign you will find the abbreviation of the book from where the information is taken. Hover over the abbreviation to see the full name of the book. | 
-| :material-plus-circle: | click on this icon to read the translations of ayaat. |
+| :material-plus-circle: | Click on this icon to read the translations of ayaat. |
 
 
 [A](../A/index.md){ .md-button .md-button--primary }

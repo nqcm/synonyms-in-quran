@@ -1,5 +1,5 @@
 
-This repository holds the source code of the website [https://qcm.github.io/synonyms-in-quran/](qcm.github.io/synonyms-in-quran/) and MD files.
+This repository holds the source code of the website [nqcm.github.io/synonyms-in-quran/](https://nqcm.github.io/synonyms-in-quran/) and MD files.
 
 # Synonyms in Quran
 
