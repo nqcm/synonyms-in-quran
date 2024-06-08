@@ -28,6 +28,9 @@ markdown_extensions:
   
 
 extra:
+  analytics:
+    provider: google
+    property: G-SXCNH0V5B6
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/nqcm
