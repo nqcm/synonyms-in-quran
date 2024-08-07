@@ -71,3 +71,6 @@ theme:
       lang:
         - eng
         - ar
+
+# extra_css:
+# - stylesheets/extra.css
