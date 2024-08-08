@@ -162,7 +162,7 @@ The word بشر can be used for singular, plural, masculine, and feminine. Howev
 
 This word is used in Quran whenever the context is about man's physique, his built, his natural traits and/or weaknesses. In this aspect the opposite of this word is مَلك meaning angel who is devoid of all those traits and weaknesses.
 
-One of the biggest objections raised by the disbelievers was that how can a بشر like us, who was born and will die, who eats and drinks, walks in the markets, and fullfills his needs like us, can be a divine Messenger. What is his superiority over us? And why the Messengerhood was not given to an angel, who is devoid of these weaknesses. 
+One of the biggest objections raised by the disbelievers was that how can a بشر like us, who was born and will die, who eats and drinks, walks in the markets, and fulfils his needs like us, can be a divine Messenger. What is his superiority over us? And why the Messengerhood was not given to an angel, who is devoid of these weaknesses. 
 
 Allah has answered this objection in the Quran in the following ayaah
 

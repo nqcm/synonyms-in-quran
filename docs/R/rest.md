@@ -14,16 +14,18 @@ title: To rest
 
 ## سكن
 
-### Root Letters: 
+### Root Letters:
+
 س ك ن
 
 ### Meaning:
 
 The word سكن is a comprehensive word. It means to rest after movement and turmoil[^MQL], to be at peace, to be tranquil and calm. That's why this word has also been used to settle in a place. (See [to settle](../L/live.md)).
 
-This word and it's noun سكون are used in both physical and conceptual meaning. So, it not only means to rest after physical exhaustion, but also to find peace after mental turmoil[^MTFQ].
+This word and its noun سكون are used in both physical and conceptual meanings. So, it not only means to rest after physical exhaustion, but also to find peace after mental turmoil[^MTFQ].
 
 ### Examples from Quran
+
 In the following ayaah, the word سكن is used in the meaning of physical rest.
 
 !!! quote "Surah al-Qasas - 73"
@@ -52,7 +54,7 @@ And in the following ayaah, the word سكن is used in the meaning of mental pea
 س ب ت
 
 ### Meaning:
-The basic meaning of this word is peace and tranquality[^MQL], or a rest after which relief or comfort is achieved[^MR]. We can use this word for a good night's sleep that results in waking up refreshed and rested. This word is also used for the day of rest, the Sabbath, which is observed by Jews on Saturday and by Christians on Sunday.
+The basic meaning of this word is peace and tranquility[^MQL], or a rest after which relief or comfort is achieved[^MR]. We can use this word for a good night's sleep that results in waking up refreshed and rested. This word is also used for the day of rest, the Sabbath, which is observed by Jews on Saturday and by Christians on Sunday.
 
 ### Examples from Quran
 
@@ -68,6 +70,7 @@ The basic meaning of this word is peace and tranquality[^MQL], or a rest after w
 ## ارتفق
 
 ### Root Letters:
+
 ر ف ق
 
 ### Meaning:
@@ -80,7 +83,7 @@ The derivatives of the roots are used for everything that results in comfort and
 
 For example, مِرفق is the elbow as it used to suport one's self while leaning or resting. It is also used for the armrest of an easy chair[^HW], or a comfortable house or apartment[^HW]. With the same logic مِرفقه is a small pillow. And إِرتَفَاق is such a companionship which results in comfort and peace. 
 
-In Quran we find the word مُرْتَفَق, which is a resting place where there is comfort and no disturbance. Interstingly, we find this word used in Quran for Jahannam, the Hellfire.
+In Quran we find the word مُرْتَفَق, which is a resting place where there is comfort and no disturbance. Interestingly, we find this word used in Quran for Jahannam, the Hellfire.
 
 ### Examples from Quran
 
@@ -106,7 +109,7 @@ And in the same surah we find the word مُرْتَفَق is used for the restin
 
     1. These! For them will be ‘Adn (Eden) Paradise (everlasting Gardens); wherein rivers flow underneath them; therein they will be adorned with bracelets of gold, and they will wear green garments of fine and thick silk. They will recline therein on raised thrones. How good is the reward, and what an excellent Murtafaq (dwelling, resting place.)!
 
-In the following ayaah we find the plural of the word مرفق meaing elbows.
+In the following ayaah we find the plural of the word مرفق meaning elbows.
 
 !!! quote "Surah al-Maidaah - 6"
 
