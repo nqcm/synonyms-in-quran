@@ -89,3 +89,5 @@ For the disbelievers the word used is بئس القرار which means "evil abod
 
 
 <!-- Also see Qiyamah -->
+
+<br>

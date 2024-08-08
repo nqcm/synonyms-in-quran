@@ -1,0 +1,12 @@
+[^MR]: [مفردات إمام راغب](../sources.md#mr)
+[^FL]: [فقه اللغة](../sources.md#fl)
+[^FQL]: [الفروق اللغوية](../sources.md#fql)
+[^MQL]: [مقائيس اللغة](../sources.md#mql)
+[^MNJD]: [المنجد](../sources.md#mnjd)
+[^MA]: [منتهى الارب](../sources.md#ma)
+[^MM]: [محيط المحيط](../sources.md#mm)
+[^MQ]: [مرآة القرآن](../sources.md#mq)
+[^QJ]: [القاموس الجديد](../sources.md#qj)
+[^GQ]: [غريب القرآن](../sources.md#gq)
+[^MTFQ]: [مترادفات القرآن](../sources.md#mtfq)
+

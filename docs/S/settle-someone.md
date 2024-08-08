@@ -19,7 +19,7 @@ We saw words used in Quran with the meaning [to settle](../L/live.md). In this s
 س - ك - ن
 
 ### Meaning
-This word has the meaning of taking someone from one place and setttle them in a different place. (:material-book: MTFQ)
+This word has the meaning of taking someone from one place and setttle them in a different place[^MTFQ].
 
 ### Examples from Quran
 
@@ -40,7 +40,7 @@ This word has the meaning of taking someone from one place and setttle them in a
 
 ### Meaning
 
-This word has the meaning of settling someone in a place which they like and which suits them. (:material-book: MTFQ)
+This word has the meaning of settling someone in a place which they like and which suits them[^MTFQ].
 
 !!! quote "Surah Yunus - 93"
 
@@ -60,11 +60,11 @@ This word has the meaning of settling someone in a place which they like and whi
 
 ### Meaning
 
-It means to make something full of life, to make it thrive, to make someone or some place prosperous. (:material-book: MTFQ)
+It means to make something full of life, to make it thrive, to make someone or some place prosperous[^MTFQ].
 
-According to ibn Faaris it also has the meaning of preservation, longevity and persistence. (:material-book: Maqaees)
+According to ibn Faaris it also has the meaning of preservation, longevity and persistence[^MQL].
 
-Sometimes we can capture the meaning of a word better if we look at its opposite. The opposite of عمر (as an intransitive verb) is to destroy, to ruin, to wreck, to vandalize. (:material-book: MTFQ). So عمر means to make something thrive and prosper, and the opposite of it is to destroy something.
+Sometimes we can capture the meaning of a word better if we look at its opposite. The opposite of عمر (as an intransitive verb) is to destroy, to ruin, to wreck, to vandalize[^MTFQ]. So عمر means to make something thrive and prosper, and the opposite of it is to destroy something.
 
 We find both these words in a single hadeeth. While describing the signs of near Qiyamah, Rasulullah (ﷺ) said:
 
@@ -112,7 +112,7 @@ This word also has the meaning of establishing or settling someone in a place. B
 
 In Arabic, root letters play a very important role. Words made from same root letters have related meanings and knowing the meanings of the root letters can enhance our understanding.
 
-The root letters of this word has the meaning of taking refuge, seeking shelter, a place of protection. (:material-book: MR)
+The root letters of this word has the meaning of taking refuge, seeking shelter, a place of protection[^MR].
 
 The base form (the verb made up of just the root letters) of this word is (أوى) and it is used in Quran for the People of the Cave when they took refuge in the cave from the polytheists.
 
@@ -131,3 +131,9 @@ The base form (the verb made up of just the root letters) of this word is (أو�
 - بوّأ - to settle someone in a suitable and favourable place
 - عمر - to inhabit, to make some place thrive and prosper
 - آوى - to provide lodgings, shelter, or refuge to someone
+
+[^MQL]: [مقائيس اللغة](../sources.md#mql)
+[^MR]: [مفردات إمام راغب](../sources.md#mr)
+[^MTFQ]: [مترادفات القرآن](../sources.md#mtfq)
+
+<br>

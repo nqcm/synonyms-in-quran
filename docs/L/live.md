@@ -21,11 +21,11 @@ Let's take a look at all the words from Quran and their unique flavor.
 س - ك - ن
 
 ### Meaning
-Sakana(سَكَنَ) or sakoon is the antonym of unrest and motion. Thus when sakana is used in the context of ‘to settle in a land’ then it has the meaning of to arrive from some other place to settle. (:material-book: Maqaees)
+Sakana(سَكَنَ) or sakoon is the antonym of unrest and motion. Thus when sakana is used in the context of ‘to settle in a land’ then it has the meaning of to arrive from some other place to settle[^MQL].
 
 ### Examples from Quran
 
-In the following ayaah, the word sakanah implies that their birth was at some other place other than Al-Jannah and then Allah settled them in it. (:material-book: MTFQ)
+In the following ayaah, the word sakanah implies that their birth was at some other place other than Al-Jannah and then Allah settled them in it[^MTFQ].
 
 !!! quote "Surah al-Baqarah - 35"
 
@@ -61,7 +61,7 @@ There are two connotations in its meaning:
 1. Returning to a thing 
 2. Being appropriate 
 
-This word is used when the climate and surrounding of a residential place is suitable and favourable for the resident. (:material-book: MTFQ)
+This word is used when the climate and surrounding of a residential place is suitable and favourable for the resident[^MTFQ].
 
 !!! quote "Surah Yusuf - 56"
 
@@ -94,12 +94,11 @@ Likewise Allah said to Muhammad (PBUH) when Muhammad (PBUH) was appointing the b
 
 ### Meaning
 
-It means to be buried, or to stay in the some place for a long time, to make some place a permanent abode, or to keep residence at a place since time of forefathers. (:material-book: MR)
+It means to be buried, or to stay in the some place for a long time, to make some place a permanent abode, or to keep residence at a place since time of forefathers[^MR].
 
 ثوَى الرَّجُل means death of a man
 
-الثّاية is a rock placed half buried at a place by a shepherd to mark the place where he can return at night. (:material-book: Maqaees)
-
+الثّاية is a rock placed half buried at a place by a shepherd to mark the place where he can return at night[^MQL].
  
 !!! quote "Suraa al-Qasas - 45"
 
@@ -219,7 +218,7 @@ The root word has two basic meanings:
 
 From this we get the derived word عشيرة which means clan, kinsfolk, or tribe.
 
-So عاشر means to live closely as a family, to be on intimate terms with someone, to associate closely with someone. (MTFQ)
+So عاشر means to live closely as a family, to be on intimate terms with someone, to associate closely with someone[^MTFQ].
 
 !!! quote "Surah An-Nisaa - 19"
     <div class="annotate" markdown>
@@ -238,7 +237,7 @@ So عاشر means to live closely as a family, to be on intimate terms with some
 
 This word means to be free from want, not to need anything.
 
-غَنِيَ بِلمَكَانِ  means to live at a place for a long time with peace and comfort as if that person is free from a need of other places. (Maqaees) 
+غَنِيَ بِلمَكَانِ  means to live at a place for a long time with peace and comfort as if that person is free from a need of other places[^MQL]. 
 
 !!! quote "Surah al-A'raf - 92"
     <div class="annotate" markdown>
@@ -261,3 +260,9 @@ This word means to be free from want, not to need anything.
 - غني - to live with peace and comfort for a long time
 
 
+[^MQL]: [مقائيس اللغة](../sources.md#mql)
+[^MTFQ]: [مترادفات القرآن](../sources.md#mtfq)
+[^MR]: [مفردات إمام راغب](../sources.md#mr)
+
+
+<br>
