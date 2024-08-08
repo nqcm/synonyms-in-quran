@@ -23,7 +23,7 @@ These most commonly used words for human beings.
 
 We find different opinions about the root letters and meanings of these words. 
 
-Ibn Qutaybah, the author of Ghareeb al-Quran (:material-book: GQ), says that man is called إنس because he can be seen, as opposed to Jinn, who are invisible. He quotes the following aayaah as a proof:
+Ibn Qutaybah, the author of Ghareeb al-Quran[^GQ], says that man is called إنس because he can be seen, as opposed to Jinn, who are invisible. He quotes the following aayaah as a proof:
 
 !!! quote "Surah al-Qasa - 29"
 
@@ -34,13 +34,13 @@ Ibn Qutaybah, the author of Ghareeb al-Quran (:material-book: GQ), says that man
 
     1. Then, when Mûsâ (Moses) had fulfilled the term, and was travelling with his family, he saw a fire in the direction of Tûr (Mount). He said to his family: "Wait, I have seen a fire; perhaps I may bring you from there some information, or a burning fire-brand that you may warm yourselves."
 
-Abdul Rahman Kilani has preferred this view in his book (:material-book: MTFQ) based on the ayaah where Allah has mentioned Jinn and Ins as ثقلان - the two heavy (responsible) creations.
+Abdul Rahman Kilani has preferred this view in his book[^MTFQ] based on the ayaah where Allah has mentioned Jinn and Ins as ثقلان - the two heavy (responsible) creations.
 
-But in Ghareeb al-Quran (:material-book: GQ) we also find a narration from Ibn Abbas رَضِيَ ٱللَّٰهُ عَنْهُ in which he mentions that إنسان is called إنسان or إنسيا because he forgot the covenant he had made with his Lord. So according to this narration these words are derived from the root نسي which means to forget. 
+But in Ghareeb al-Quran[^GQ] we also find a narration from Ibn Abbas رَضِيَ ٱللَّٰهُ عَنْهُ in which he mentions that إنسان is called إنسان or إنسيا because he forgot the covenant he had made with his Lord. So according to this narration these words are derived from the root نسي which means to forget. 
 
-Imam Raghib al-Asfahani in his book (:material-book: MR) has mentioned that the word إنسان is derived from the root أُنس which means to be sociable or to be friendly. Man is called إنسان because he has been created to live together in social life and harmony, who cherishes the connections and lives in relations with each other. From this aspect إنسان is the opposite of وحش - wild or savage.
+Imam Raghib al-Asfahani in his book[^MR] has mentioned that the word إنسان is derived from the root أُنس which means to be sociable or to be friendly. Man is called إنسان because he has been created to live together in social life and harmony, who cherishes the connections and lives in relations with each other. From this aspect إنسان is the opposite of وحش - wild or savage.
 
-Ibn al-Faris has put together both these definitions and he describes إنسان as a creation which is visible and which is different from wild and beastly ways and behaviour. (:material-book: Maqaees)
+Ibn al-Faris has put together both these definitions and he describes إنسان as a creation which is visible and which is different from wild and beastly ways and behaviour[^MQL].
 
 ### Usage in Quran
 
@@ -112,13 +112,13 @@ And أناسي is used for a very large group of people, a crowd, or a nation.
 
 ### Meaning
 
-The basic meaning of this root is something favourable and tender (:material-book: Maqaees). أدام means every favourable and tender thing (:material-book: MNJD). We have a hadeeth in which this word has been used in this meaning when Rasulullah (صلى الله عليه وسلم) said to Mughirah bin Sheba رَضِيَ ٱللَّٰهُ عَنْهُ
+The basic meaning of this root is something favourable and tender[^MQL]. أدام means every favourable and tender thing[^MNJD]. We have a hadeeth in which this word has been used in this meaning when Rasulullah (صلى الله عليه وسلم) said to Mughirah bin Sheba رَضِيَ ٱللَّٰهُ عَنْهُ
 
  فَانْظُرْ إِلَيْهَا فَإِنَّهُ أَجْدَرُ أَنْ يُؤْدَمَ بَيْنَكُمَا 
  "Look at her (the woman you have proposed marriage to), for that is more likely to create love between you.".
 (Nasai)
 
-We also find other meanings for this word but Sheikh Abdur Rahman Kilani has preferred this meaning as it is confirmed by this hadeeth (:material-book: MTFQ).
+We also find other meanings for this word but Sheikh Abdur Rahman Kilani has preferred this meaning as it is confirmed by this hadeeth[^MTFQ].
 
 It is also the name of the first human being, Adam عليه السّلام, who was created by Allah from clay. The word آدم is used in the Quran for Adam and his progeny. We also find the word آدم and بني آدم used in the Quran to refer to the human beings in general.
 
@@ -132,7 +132,7 @@ Interestingly, Quran only uses the word آدم or بني آدم for human beings
 
 ### Meaning
 
-The base meaning of this root is to exhibit something with beauty and elegance (:material-book: Maqaees). Notice that the word أنس also means to become visible or apparent but this word has the added meaning of beauty.
+The base meaning of this root is to exhibit something with beauty and elegance[^MQL]. Notice that the word أنس also means to become visible or apparent but this word has the added meaning of beauty.
 
 البشرة means the topmost layer of human skin (which contains the pain receptors). The plural of this word is بشر and أبشار .
 
@@ -146,7 +146,7 @@ The base meaning of this root is to exhibit something with beauty and elegance (
     1. Burning and blackening the skins!
 
 
-The word بشر is used for human beings because of the skin which is the outer covering of the human body, as opposed to animals who have fur, feather, or scales (:material-book: MR).
+The word بشر is used for human beings because of the skin which is the outer covering of the human body, as opposed to animals who have fur, feather, or scales[^MR].
 
 The word بشر can be used for singular, plural, masculine, and feminine. However, the dual form of this word is بشران which is used in the Quran in the following ayaah
 
@@ -162,7 +162,7 @@ The word بشر can be used for singular, plural, masculine, and feminine. Howev
 
 This word is used in Quran whenever the context is about man's physique, his built, his natural traits and/or weaknesses. In this aspect the opposite of this word is مَلك meaning angel who is devoid of all those traits and weaknesses.
 
-One of the biggest objections raised by the disbelievers was that how can a بشر like us, who was born and will die, who eats and drinks, walks in the markets, and fullfills his needs like us, can be a divine Messenger. What is his superiority over us? And why the Messengerhood was not given to an angel, who is devoid of these weaknesses. 
+One of the biggest objections raised by the disbelievers was that how can a بشر like us, who was born and will die, who eats and drinks, walks in the markets, and fulfils his needs like us, can be a divine Messenger. What is his superiority over us? And why the Messengerhood was not given to an angel, who is devoid of these weaknesses. 
 
 Allah has answered this objection in the Quran in the following ayaah
 
@@ -181,5 +181,11 @@ Allah has answered this objection in the Quran in the following ayaah
 - أنسان - and related derived forms are used when the discussion includes the social aspect of humans.
 - آدم - used when the historical aspect is under discussion.
 - بشر - used when natural or physical aspects of humans are discussed.
+
+[^GQ]: :material-book: [غريب القرآن](../sources.md#gq)
+[^MTFQ]: :material-book: [مترادفات القرآن](../sources.md#mtfq)
+[^MR]: :material-book: [مفردات إمام راغب](../sources.md#mr)
+[^MQL]: :material-book: [مقائيس اللغة](../sources.md#mql)
+[^MNJD]: :material-book: [المنجد](../sources.md#mnjd)
 
 <br>
