@@ -132,8 +132,8 @@ The base form (the verb made up of just the root letters) of this word is (أو�
 - عمر - to inhabit, to make some place thrive and prosper
 - آوى - to provide lodgings, shelter, or refuge to someone
 
-[^MQL]: [مقائيس اللغة](../sources.md#mql)
-[^MR]: [مفردات إمام راغب](../sources.md#mr)
-[^MTFQ]: [مترادفات القرآن](../sources.md#mtfq)
+[^MQL]: :material-book: [مقائيس اللغة](../sources.md#mql)
+[^MR]: :material-book: [مفردات إمام راغب](../sources.md#mr)
+[^MTFQ]: :material-book: [مترادفات القرآن](../sources.md#mtfq)
 
 <br>

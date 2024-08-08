@@ -182,10 +182,10 @@ Allah has answered this objection in the Quran in the following ayaah
 - آدم - used when the historical aspect is under discussion.
 - بشر - used when natural or physical aspects of humans are discussed.
 
-[^GQ]: [غريب القرآن](../sources.md#gq)
-[^MTFQ]: [مترادفات القرآن](../sources.md#mtfq)
-[^MR]: [مفردات إمام راغب](../sources.md#mr)
-[^MQL]: [مقائيس اللغة](../sources.md#mql)
-[^MNJD]: [المنجد](../sources.md#mnjd)
+[^GQ]: :material-book: [غريب القرآن](../sources.md#gq)
+[^MTFQ]: :material-book: [مترادفات القرآن](../sources.md#mtfq)
+[^MR]: :material-book: [مفردات إمام راغب](../sources.md#mr)
+[^MQL]: :material-book: [مقائيس اللغة](../sources.md#mql)
+[^MNJD]: :material-book: [المنجد](../sources.md#mnjd)
 
 <br>

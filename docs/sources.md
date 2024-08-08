@@ -63,3 +63,11 @@ The book remains a critical text in the study of Quranic exegesis and Arabic lin
 ## مترادفات القرآن - عبدالرحمن كيلاني {#mtfq}
 I am going to lean heavily on this book, which is an excellent (and possibly unique) book in Urdu on this topic. For many words just a translation of his work would suffice. But for other words I am going to add more content based on my personal research, InShaAllah!
 
+## Hens Wehr dictionary
+The *Hans Wehr Dictionary of Modern Written Arabic* is a renowned and widely-used resource for students and scholars of Arabic. Compiled by German Arabist Hans Wehr and first published in 1952, the dictionary is celebrated for its clarity, organization, and comprehensive coverage of Modern Standard Arabic.
+
+Organized by root words, the dictionary follows traditional Arabic lexicography, helping users understand word relationships and morphological patterns. It focuses on contemporary Arabic, including vocabulary from literature, media, and everyday language.
+
+Praised for its clear definitions, concise explanations, and example sentences, the *Hans Wehr Dictionary* is an invaluable tool for learners at all levels. The English edition, edited by J. Milton Cowan, is especially popular and considered a reliable reference in the
+
+study of Modern Standard Arabic. Hans Wehr's work remains a cornerstone in Arabic studies, making the language more accessible to non-native speakers and maintaining its relevance in the field.

@@ -260,9 +260,9 @@ This word means to be free from want, not to need anything.
 - غني - to live with peace and comfort for a long time
 
 
-[^MQL]: [مقائيس اللغة](../sources.md#mql)
-[^MTFQ]: [مترادفات القرآن](../sources.md#mtfq)
-[^MR]: [مفردات إمام راغب](../sources.md#mr)
+[^MQL]: :material-book: [مقائيس اللغة](../sources.md#mql)
+[^MTFQ]: :material-book: [مترادفات القرآن](../sources.md#mtfq)
+[^MR]: :material-book: [مفردات إمام راغب](../sources.md#mr)
 
 
 <br>
